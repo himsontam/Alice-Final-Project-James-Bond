@@ -1,5 +1,6 @@
 # Alice-Final-Project-James-Bond
 University of Washington CSS 107 Class CSS 107: Introduction to Programming Through Animated Storytelling
+
 Now that you have had some time to work in the Alice programming environment, it is time to apply your new knowledge of this programming environment.  You will be creating a short movie that will showcase your skills.  Have some fun with this assignment…get creative!
 
 Assignment requirements:
